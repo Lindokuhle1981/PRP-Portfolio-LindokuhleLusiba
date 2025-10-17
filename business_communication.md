@@ -6,7 +6,8 @@ This section demonstrates my understanding of professional business communicatio
 ---
 
 ## 📂 Evidence
--Business Comunication.png
+<img width="1859" height="958" alt="image" src="https://github.com/user-attachments/assets/5201a7f5-b3d5-4982-bdfe-36eb5b81f4ec" />
+
 
 
 
