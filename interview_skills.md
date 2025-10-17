@@ -1,6 +1,7 @@
 ## Evidence
 
-Interview Skills.png
+<img width="1824" height="953" alt="image" src="https://github.com/user-attachments/assets/dc41802c-27ef-4b57-bcad-b51b0605a893" />
+
 
 ## 💡 STAR Reflection – Interview Skills
 
