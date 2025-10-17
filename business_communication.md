@@ -6,8 +6,7 @@ This section demonstrates my understanding of professional business communicatio
 ---
 
 ## 📂 Evidence
-- [Presentation Slides on Workplace Communication](business_presentation.pdf)
-  Business Communication.png
+-Business Comunication.png
 
 
 
